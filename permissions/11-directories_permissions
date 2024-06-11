@@ -1,2 +1,2 @@
 #!/bin/bash
-find ldsksls
+chmod -R +X
