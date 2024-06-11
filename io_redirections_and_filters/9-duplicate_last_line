@@ -1,2 +1,2 @@
-dfsfdsfsfsftesting fot tokens
-
+#!/bin/bash
+tail -1 iacta 
