@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d 'Cc' :wq
+tr -d 'Cc':wq
